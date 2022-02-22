@@ -1,0 +1,10 @@
+{
+	"basic_theory": "what is testing, bug report, documentation, types, methods, testinh directions, etc",
+	"what_is_architecture": "client-server",
+	"what_is_http_method": "like are get, head, post, put, etc",
+	"server response": "1xx, 2xx, 3xx, 4xx, 5xx",
+	"what_is_sniffing_mobile_trafic": "use program charles-android, fidler-ios",
+	"bulding_android_apps": "android studio",
+	"bulding_ios_apps": "xcode",
+	"bd": "like are sql, postgres, redis"
+}
